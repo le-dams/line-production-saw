@@ -1,0 +1,11 @@
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\bin\x86\Debug\IsoMetall_calcul.exe.config
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\bin\x86\Debug\IsoMetall_calcul.exe
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\bin\x86\Debug\IsoMetall_calcul.pdb
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.Glue.resources
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.Main.resources
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.Saw.resources
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.Properties.Resources.resources
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.csproj.GenerateResource.Cache
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.exe
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.pdb
+Y:\Developper\c#\IsoMetall_calcul\IsoMetall_calcul\obj\x86\Debug\IsoMetall_calcul.csprojResolveAssemblyReference.cache
