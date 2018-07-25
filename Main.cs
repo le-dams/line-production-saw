@@ -21,14 +21,14 @@ namespace IsoMetall_calcul
         Saw Saw = null;
 
         const int WIDTH_MAX = 1400;
-        const double SPEED_MIN = 0.7;
+        const double SPEED_MIN = 0.6;
         const double SPEED_MAX = 10.0;
         const int INTERVAL = 100;
 
         //"C:\\Users\\le-dams\\Desktop\\K8055D.DLL"
         private Device device = new Device(0);
 
-        private double speed_line = 1.5;
+        private double speed_line = 1.4;
         private int sheet_width = 1000;
 
         private int production_length = 0;

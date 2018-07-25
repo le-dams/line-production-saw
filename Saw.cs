@@ -15,7 +15,7 @@ namespace IsoMetall_calcul
         // Main
         private Main mainFrame = null;
 
-        const int MAX_X = 1400;
+        const int MAX_X = 1300;
         const int MAX_Y = 4000;
         const int INTERVAL = 100;
         const int LENGTH_LINE = 5000;
@@ -33,7 +33,7 @@ namespace IsoMetall_calcul
 
         // SPEEDS
         private int axe_x_speed = 0; // mm/s
-        private int axe_x_speedCuttingEmpty = 500; // mm/s
+        private int axe_x_speedCuttingEmpty = 450; // mm/s
         private int axe_x_speedCutting = 300; // mm/s
 
         private int axe_y_speed = 0; // mm/s
